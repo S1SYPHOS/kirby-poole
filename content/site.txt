@@ -1,0 +1,17 @@
+Title: Poole
+
+----
+
+Author: 
+
+----
+
+Tagline: The Kirby Butler
+
+----
+
+Github: https://github.com/poole/poole
+
+----
+
+Version: 2.0.0
