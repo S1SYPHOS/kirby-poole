@@ -15,7 +15,7 @@ Use one of the following methods to start blogging with `kirby-poole`:
 1. [Clone](https://github.com/S1SYPHOS/kirby-poole.git) or [download](https://github.com/S1SYPHOS/kirby-poole/archive/master.zip) this repository.
 2. Unzip / Upload the folder to your site's `root`.
 
-For more information, check out the [original project](https://github.com/poole/poole) or view [its demo](http://poole.getpoole.com/) - `kirby-poole` basically looks the same.
+For more information, check out the [demo page](https://twobrain.io/poole) (or head over to the [original project](https://github.com/poole/poole)).
 
 ## Credits / License
 This is a [port](https://en.wikipedia.org/wiki/Porting) of the Jekyll theme 'Poole', which was originally developed by [@mdo](https://github.com/mdo). `kirby-poole` is licensed under the [MIT License](LICENSE), but **using Kirby in production** requires you to [buy a license](https://getkirby.com/buy). Are you ready for the [next step](https://getkirby.com/next)?
