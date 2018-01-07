@@ -2,4 +2,4 @@ Title: Home
 
 ----
 
-Perpage: 1
+Perpage: 5
